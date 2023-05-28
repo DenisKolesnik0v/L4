@@ -1,5 +1,6 @@
 Лаб. работа 4
 Реализовать CRUD для работы с базой данных MySQL.
+![image](https://github.com/DenisKolesnik0v/L4/assets/86621945/e7146ba5-3426-438e-b939-0156d7b5b93f)
 ![CREATE](https://github.com/DenisKolesnik0v/L4/assets/86621945/f5f66b91-782a-440c-a324-9646308c5da7)
 ![Read](https://github.com/DenisKolesnik0v/L4/assets/86621945/118c6e21-86b3-44ac-a85d-8d2a3267341d)
 ![UPDATE](https://github.com/DenisKolesnik0v/L4/assets/86621945/3abb99ac-6bb7-4137-aa88-7c18e91c379e)
